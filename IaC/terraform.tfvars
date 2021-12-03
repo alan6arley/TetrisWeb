@@ -1,0 +1,7 @@
+subscriptionId = "xxxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx"
+ProjectPrefix  = "tetris"
+location       = "eastus"
+environment    = "Prod"
+usedBy         = "RogSchool"
+devTeam        = "RogDevs"
+netFwVersion   = "v4.0"
